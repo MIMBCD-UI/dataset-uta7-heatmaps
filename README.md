@@ -1,4 +1,4 @@
-<meta http-equiv="refresh" content="0; url='https://mimbcd-ui.github.io/repo-template-datasets/web/index.html'" />
+<meta http-equiv="refresh" content="0; url='https://mimbcd-ui.github.io/dataset-uta7-heatmaps/web/index.html'" />
 
 # Datasets Repository Template
 
@@ -6,7 +6,6 @@
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg?style=flat-square)](https://github.com/MIMBCD-UI/repo-template-datasets/blob/master/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/MIMBCD-UI/repo-template-datasets?style=flat-square)](https://github.com/MIMBCD-UI/repo-template-datasets/commits/master)
-[![HitCount](http://hits.dwyl.io/MIMBCD-UI/repo-template-datasets.svg)](http://hits.dwyl.io/opprDev/repo-template-datasets)
 [![OpenCollective](https://opencollective.com/oppr/backers/badge.svg?style=flat-square)](#backers)
 [![OpenCollective](https://opencollective.com/oppr/sponsors/badge.svg?style=flat-square)](#sponsors)
 [![Gitter](https://img.shields.io/gitter/room/gitterHQ/gitter.svg?style=flat-square)](https://gitter.im/opprTeam)
