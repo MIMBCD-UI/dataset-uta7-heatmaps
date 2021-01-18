@@ -1,0 +1,82 @@
+.container {
+  width: 550px;
+  height: 550px;
+  background-color: black;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+}
+
+.container div {
+  background-color: white;
+  width: 550px;
+  height: 550px;
+  display: inline-block;
+  display: none;
+}
+
+.container img {
+  width: 550px;
+  height: 550px;
+}
+
+button {
+  position: absolute;
+}
+
+.next {
+  right: 5px;
+}
+
+.prev {
+  left: 5px;
+}
+
+.main {
+  position: absolute;
+  width: 550px;
+  height: 550px;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+}
+
+.full {
+  position: absolute;
+  width: 550px;
+  height: 550px;
+  left: 0px;
+  top: 0px;
+  z-index: 2;
+  opacity: 0.25;
+}
+
+.high {
+  position: absolute;
+  width: 550px;
+  height: 550px;
+  left: 0px;
+  top: 0px;
+  z-index: 3;
+  opacity: 0.20;
+}
+
+.low {
+  position: absolute;
+  width: 550px;
+  height: 550px;
+  left: 0px;
+  top: 0px;
+  z-index: 4;
+  opacity: 0.15;
+}
+
+.medium {
+  position: absolute;
+  width: 550px;
+  height: 550px;
+  left: 0px;
+  top: 0px;
+  z-index: 5;
+  opacity: 0.10;
+}
